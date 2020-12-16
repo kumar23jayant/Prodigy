@@ -33,3 +33,5 @@ Connect device( make sure USB debugging is enabled ) or launch an emulator.
 ```sh
 $ npm run android
 ```
+
+![Screenshot](./Screenshots/app.png)
